@@ -1,8 +1,8 @@
 package test_case_harness
 
 import (
-	"github.com/codecrafters-io/tester-utils/executable"
-	"github.com/codecrafters-io/tester-utils/logger"
+	"github.com/make-core/tester-utils/executable"
+	"github.com/make-core/tester-utils/logger"
 )
 
 // TestCaseHarness is passed to your TestCase's TestFunc.

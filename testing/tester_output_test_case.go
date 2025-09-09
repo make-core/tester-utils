@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	tester_utils "github.com/codecrafters-io/tester-utils"
-	"github.com/codecrafters-io/tester-utils/stdio_mocker"
-	"github.com/codecrafters-io/tester-utils/tester_definition"
+	tester_utils "github.com/make-core/tester-utils"
+	"github.com/make-core/tester-utils/stdio_mocker"
+	"github.com/make-core/tester-utils/tester_definition"
 	"github.com/stretchr/testify/assert"
 )
 
